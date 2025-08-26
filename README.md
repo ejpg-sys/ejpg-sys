@@ -1,6 +1,6 @@
 [![Attribution-NonCommercial-NoDerivatives 4.0 International](https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-[@ejgp-sys](https://github.com/ejpg-sys)
+**[@ejgp-sys](https://github.com/ejpg-sys)**
 
 ## Technical Skills ##
 - **Programming Languages:** Java, SQL, JavaScript, Shell Script,
@@ -22,3 +22,7 @@ Clean Architecture.
 - **Complex problem-solving**
 - **Clear communication with cross-functional teams**
 - **Time management and delivery under pressure**
+
+## Donate ##
+- **Action Description:** *Development of High Level Proofs of Concept and Disclosure of Comercial Indicators.*  
+**[Donate Page](https://www.paypal.com/donate/?business=768BMD3QVWQCA&no_recurring=0&item_name=EN%3A+Development+of+High+Level+Proofs+of+Concept+and+Disclosure+of+Commercial+Indicators.&currency_code=USD)**
