@@ -24,5 +24,7 @@ Clean Architecture.
 - **Time management and delivery under pressure**
 
 ## Donate ##
-- **Action Description:** *Development of High Level Proofs of Concept and Disclosure of Comercial Indicators.*  
-**[Donate Page](https://www.paypal.com/donate/?business=768BMD3QVWQCA&no_recurring=0&item_name=EN%3A+Development+of+High+Level+Proofs+of+Concept+and+Disclosure+of+Commercial+Indicators.&currency_code=USD)**
+**Action Description:** *Development of High Level Proofs of Concept
+and Disclosure of Comercial Indicators.*  
+
+[![Donate Page](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=768BMD3QVWQCA&no_recurring=0&item_name=EN%3A+Development+of+High+Level+Proofs+of+Concept+and+Disclosure+of+Commercial+Indicators.&currency_code=USD)
